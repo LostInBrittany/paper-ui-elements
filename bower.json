@@ -20,6 +20,7 @@
     "paper-spinner": "PolymerElements/paper-spinner",
     "paper-swatch-picker": "PolymerElements/paper-swatch-picker",
     "paper-tabs": "PolymerElements/paper-tabs",
+    "paper-toast": "PolymerElements/paper-toast",
     "paper-toolbar": "PolymerElements/paper-toolbar",
     "paper-tooltip": "PolymerElements/paper-tooltip"
   }
